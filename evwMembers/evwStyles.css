@@ -1,0 +1,45 @@
+﻿
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left:30px;
+}
+
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 3px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 3px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+
+th, td {
+    padding: 10px;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
